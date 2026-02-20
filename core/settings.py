@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'shared',
     'blogs',
-    'products',
+    'products.apps.ProductsConfig',
     'users',
 ]
 
